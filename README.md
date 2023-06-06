@@ -17,7 +17,7 @@
 [docs]: https://docs.qameta.io/allure-report/
 [discussions]: https://github.com/allure-framework/allure2/discussions
 
-# Allure Report
+# Allure Report - Custom
 
 [![build-badge][]][build] [![release-badge][]][release] [![maven-badge][]][maven] [![Backers on Open Collective](https://opencollective.com/allure-report/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/allure-report/sponsors/badge.svg)](#sponsors)
 
